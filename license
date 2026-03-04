@@ -1,0 +1,6 @@
+-- Listahan ng UserIds na may access sa Roblox system
+return {
+    8321252268, -- UserId ng player #1
+    87654321, -- UserId ng player #2
+    13579246, -- UserId ng player #3
+}
